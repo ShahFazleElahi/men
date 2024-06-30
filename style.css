@@ -1,0 +1,63 @@
+nav{
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+
+nav div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.menu{
+    width: 20px;
+}
+.logo{
+    width: 20px;
+}
+.cart-love{
+    width: 50px;
+    gap: 10px;
+}
+.scearch{
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.scearch img{
+    width: 200px;
+}
+
+.hero{
+
+}
+.hero img{
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.hero-1{
+
+}
+.hero-1 img{
+    width: 100%;
+}
+
+
+
+
+/*----Footer----*/
+footer{
+
+}
+
+footer img{
+    width: 100%;
+}
